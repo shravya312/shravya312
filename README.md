@@ -1,25 +1,12 @@
-## Hi, I am Shravya
+<h1 align="center"> About Me: </h1>
+<span style="color:#FFD700;"><b>🏆 SIH'24 Finalist | GSSoC 24 Extended Rank 127</b></span><br>
+<span style="color:#FF6347;"><b>💻 5⭐️ @Hackerrank in Python</b></span><br>
+<span style="color:#20B2AA;"><b>🎓 ISE Student @DSCE</b></span><br>
+<span style="color:#FF6347;"><b>🚀 Passionate about Open Source & Collaboration</b></span>
+<br></br>
 
-<!--
-**shravya312/shravya312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Shravya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravya312&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravya312&layout=compact)
-
-## GSSOC(24) Badges 🪶
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" />
+<h1 align="center"> GSSOC(24) Badges 🪶 </h1>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -31,3 +18,56 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" />
+
+<!-- GitHub Stats Header -->
+<h1 align="center"> 📊 GitHub Stats: </h1>
+
+<!-- Summary Cards -->
+<div align="center">
+    <!-- Top Languages Card -->
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shravya312&theme=synthwave" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shravya312&theme=synthwave" />
+    <!-- Divider GIF -->
+    <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
+  <!-- GitHub Streak -->
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="19%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="19%" style="display:inline;">
+  <div align="center" style="display: flex; align-items: center; justify-content: center; margin-top: 0; padding-top: 0;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shravya312&theme=synthwave&hide_border=true" style="z-index: 2; margin-top: 0; padding-top: 0;"/>
+  </div>
+    <!-- Divider GIF -->
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+    <!-- Stats Card -->
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shravya312&theme=synthwave" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shravya312&theme=synthwave" />
+</div>
+
+
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
+
+
+
+<!-- GitHub Activity Graph -->
+
+![ github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravya312&theme=synthwave&hide_border=true)
+
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<!-- Developer Quote Section -->
+<h2 align="center"> ✍️ Random Developer Quote </h2>
+<div align="center">
+    <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<!-- Visitor Count -->
+<img src="https://profile-counter.glitch.me/%7Bshravya31210%7D/count.svg" alt="visitor badge"/>
+
+<!-- Footer Wave Effect -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave" />
+</p>
