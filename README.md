@@ -53,15 +53,6 @@
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<!-- Developer Quote Section -->
-<h2 align="center"> ✍️ Random Developer Quote </h2>
-<div align="center">
-    <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<!-- Divider GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 <!-- Visitor Count -->
 <img src="https://profile-counter.glitch.me/%7Bshravya31210%7D/count.svg" alt="visitor badge"/>
 
