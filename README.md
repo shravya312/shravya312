@@ -1,9 +1,8 @@
-<h1 align="center"> About Me: </h1>
-<span style="color:#FFD700;"><b>🏆 SIH'24 Finalist | GSSoC 24 Extended Rank 127</b></span><br>
-<span style="color:#FF6347;"><b>💻 5⭐️ @Hackerrank in Python</b></span><br>
-<span style="color:#20B2AA;"><b>🎓 ISE Student @DSCE</b></span><br>
-<span style="color:#FF6347;"><b>🚀 Passionate about Open Source & Collaboration</b></span>
-<br></br>
+h1 align="center"> About Me: </h1>
+<p align="center" style="color:#FFD700; font-size:18px;"><b>🏆 SIH'24 Finalist | GSSoC 24 Extended Rank 127</b></p>
+<p align="center" style="color:#FF6347; font-size:18px;"><b>💻 5⭐️ @Hackerrank in Python</b></p>
+<p align="center" style="color:#20B2AA; font-size:18px;"><b>🎓 ISE Student @DSCE</b></p>
+<p align="center" style="color:#FF6347; font-size:18px;"><b>🚀 Passionate about Open Source & Collaboration</b></p>
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -60,3 +59,5 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave" />
 </p>
+
+
