@@ -1,4 +1,5 @@
 <h1 align="center"> About Me: </h1>
+<p align="center" style="color:#FFD700; font-size:18px;"><b>Machine Learning Enthusiast</b></b></p>
 <p align="center" style="color:#FFD700; font-size:18px;"><b>🏆 SIH'24 Winner | GSSoC 24 Extended Rank 127</b></p>
 <p align="center" style="color:#FF6347; font-size:18px;"><b>💻 5⭐️ @Hackerrank in Python</b></p>
 <p align="center" style="color:#20B2AA; font-size:18px;"><b>🎓 ISE Student @DSCE</b></p>
