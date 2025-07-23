@@ -65,7 +65,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/shravya312/shravya312/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/shravya312/shravya312/output/github-contribution-grid-snake.svg)
 
 ---
 
