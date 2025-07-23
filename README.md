@@ -108,7 +108,7 @@
 
 ## 👀 Visitor Count
 
-<img src="https://profile-counter.glitch.me/shravya312/count.svg" alt="visitor badge"/>
+![visitors](https://shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/shravya312/visits&style=for-the-badge)
 
 ---
 
