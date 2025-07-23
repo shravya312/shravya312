@@ -2,12 +2,14 @@ name: Generate Snake Game Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # <--- ADD THIS LINE
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
