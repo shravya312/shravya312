@@ -101,7 +101,7 @@
 
 ## 👀 Visitor Count
 
-<img src="https://profile-counter.glitch.me/%7Bshravya31210%7D/count.svg" alt="visitor badge"/>
+<img src="https://profile-counter.glitch.me/shravya312/count.svg" alt="visitor badge"/>
 
 ---
 
