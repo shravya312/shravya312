@@ -108,7 +108,7 @@
 
 ## 👀 Visitor Count
 
-![Visitor Count](https://shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/shravya312/visits&style=for-the-badge)
+![Visitor Count](https://hits.sechi.me/hits?url=your-unique-page-identifier&count_bg=%237CD392&title_bg=%23555555&type=svg)
 
 ---
 
