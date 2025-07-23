@@ -72,7 +72,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![snake animation](https://raw.githubusercontent.com/shravya312/shravya312/output/github-contribution-grid-snake.svg)
+![Visitor Count](https://hits.sechi.me/hits?url=your-unique-page-identifier&count_bg=%237CD392&title_bg=%23555555&type=svg)
 
 ---
 
