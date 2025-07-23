@@ -1,4 +1,7 @@
-<h1 align="center">✨ About Me ✨</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=800&color=38F2A0&center=true&vCenter=true&width=750&height=100&lines=Hi%2C+Shravya+H+Jain+here;ML+Enthusiast;Web+Developer;Open+Source+Contributor;Continuous+Learner+%26+Builder" alt="Typing Animation"/>
+</div>
+
 
 <p align="center" style="color:#FFD700; font-size:18px;"><b>Machine Learning Enthusiast</b></p>
 <p align="center" style="color:#FFD700; font-size:18px;"><b>🏆 SIH'24 Winner | GSSoC 24 Extended Rank 127</b></p>
