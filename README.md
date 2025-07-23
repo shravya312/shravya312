@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=800&color=BB86FC&vCenter=true&width=800&height=100&center=true&lines=Hi%2C+Shravya+H+Jain+here;ML+Enthusiast;Web+Developer;Open+Source+Contributor;Continuous+Learner+%26+Builder" alt="Typing Animation"/>
 </div>
 
