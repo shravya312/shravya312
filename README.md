@@ -101,7 +101,9 @@
 
 ## 👀 Visitor Count
 
-<img src="https://profile-counter.glitch.me/shravya312/count.svg" alt="visitor badge"/>
+## 👀 Visitor Count
+
+<img src="https://hits.seeyou.space/hits?count_bg=%237CD2D7&total_count_bg=%235B5C60&url=https%3A%2F%2Fgithub.com%2Fshravya312" alt="Hits">
 
 ---
 
